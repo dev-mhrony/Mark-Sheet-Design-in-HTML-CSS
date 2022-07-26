@@ -5,3 +5,8 @@
   font-family: "Poppins", sans-serif;
 }
 
+.heder_content {
+  height: 200px;
+  width: 100%;
+  background: rgb(251, 251, 251);
+}
